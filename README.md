@@ -2,7 +2,7 @@
 
 ## **📝 Descrição**
 
-<a href="https://pt.wikipedia.org/wiki/Bubble_sort" target="_blank">
+<a href="https://pt.wikipedia.org/wiki/Bubble_sort">
     <img src="https://github.com/user-attachments/assets/200dd03c-00f3-47e8-bd6b-4ae0c215c91e" alt="Bubble_sort_animation" align="right" width="250" height="250">
 </a>
 
@@ -14,7 +14,7 @@ Um array ou lista pode estar já ordenado no momento em que se solicita a ordena
 
 ## **⚙️ Como Funciona**
 
-<a href="https://pin.it/4QhqJWy3w" target="_blank">
+<a href="https://pin.it/4QhqJWy3w">
     <img src="https://github.com/user-attachments/assets/3be1282d-1490-437e-9198-5d95f95673b9" alt="Bubble_sort_animation" align="right" width="500" height="500">
 </a>
 
