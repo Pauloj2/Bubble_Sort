@@ -2,7 +2,6 @@
 
 using namespace std;
 
-//Função para ordenar usando bubble sort
 void bubbleSort(int arr[], int n){
     int aux;
     for(int i=0; i<n-1; i++){
@@ -14,7 +13,6 @@ void bubbleSort(int arr[], int n){
             }
         }
     }
-
 }
 
 int main(){

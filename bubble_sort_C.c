@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Função para ordenar usando bubble sort
 void bubble_sort(int vetor[], int n){
     int aux;
     for(int i=0; i<n - 1; i++){
