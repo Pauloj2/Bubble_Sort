@@ -69,9 +69,12 @@ Esta função foi desenvolvido em linguagem de programação C.
 
 **Caso de teste:**
 
-<img src="https://github.com/user-attachments/assets/7ab2cb13-8f4d-4feb-b52f-50fcd1b1958f" alt="Algoritmo_Bubble_sort" align="lift">
+<img src="https://github.com/user-attachments/assets/7ab2cb13-8f4d-4feb-b52f-50fcd1b1958f" alt="Algoritmo_Bubble_sort">
 
-<img src="https://github.com/user-attachments/assets/da63d02a-ce81-4a8f-ae5f-b45414382ead" alt="run" align="right" width="400" height="200">
+<br> <\br>
+**Resultado do caso de teste:**
+
+<img src="https://github.com/user-attachments/assets/da63d02a-ce81-4a8f-ae5f-b45414382ead" alt="Saida">
 
 <br></br>
 
@@ -84,12 +87,15 @@ Esse algoritmo tem uma complexidade de tempo O(n²), o que significa que, para v
 
 Esta função foi desenvolvido em linguagem de programação C.
 
-<br> </br>
+<br> <\br>
 **Caso de teste:**
 
-<img src="https://github.com/user-attachments/assets/f5d0228d-97ed-4b42-a584-63034f6f1119" alt="Algoritmo_Bubble_sort" align="lift"  width="500" height="400">
+<img src="https://github.com/user-attachments/assets/f5d0228d-97ed-4b42-a584-63034f6f1119" alt="Algoritmo_Bubble_sort">
+<br> <\br>
+    
+**Resultado do caso de teste:**
 
-<img src="https://github.com/user-attachments/assets/74227058-d595-457e-a25b-e8eaa9d50c37" alt="run" align="right" width="380" height="250">
+<img src="https://github.com/user-attachments/assets/74227058-d595-457e-a25b-e8eaa9d50c37" alt="run">
 
 <br></br>
 
