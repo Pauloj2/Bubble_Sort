@@ -89,7 +89,7 @@ Esta função foi desenvolvido em linguagem de programação C.
 
 <img src="https://github.com/user-attachments/assets/f5d0228d-97ed-4b42-a584-63034f6f1119" alt="Algoritmo_Bubble_sort" align="lift"  width="'450" height="250">
 
-<img src="https://github.com/user-attachments/assets/74227058-d595-457e-a25b-e8eaa9d50c37" alt="run" align="right" width="380" height="250">
+<img src="https://github.com/user-attachments/assets/74227058-d595-457e-a25b-e8eaa9d50c37" alt="run" align="right" width="480" height="350">
 
 <br></br>
 
