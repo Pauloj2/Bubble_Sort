@@ -9,7 +9,7 @@
 Este repositório contém uma implementação do algoritmo de ordenação **Bubble Sort**, juntamente com uma versão otimizada. O objetivo principal deste projeto é compreender o funcionamento do Bubble Sort, analisar sua eficiência e aplicar uma otimização para melhorar o desempenho em listas quase ordenadas.
 
 O **Bubble Sort** é um algoritmo de ordenação que pode ser aplicado em Arrays e Listas dinâmicas.
-Se o objetivo é ordenar os valores em forma crescente, então, a posição atual é comparada com a próxima posição e, se a posição atual for menor que a posição posterior, é realizada a troca. Caso contrário, a troca não é feita e passa-se para o próximo par de comparação.
+Se o objetivo é ordenar os valores em forma crescente, então,se o valor da posição atual for maior que o da posição posterior, ocorre a troca. Caso contrário, a troca não é feita e passa-se para o próximo par de comparação.
 Um array ou lista pode estar já ordenado no momento em que se solicita a ordenação, dessa forma, esta situação tem de ser considerada na implementação do algoritmo. 
 
 fonte do gif: https://pt.wikipedia.org/wiki/Bubble_sort
@@ -124,7 +124,7 @@ Vetor depois de ordenar (versão básica):
 0 1 9 18 20 23 40 44 67 99
 
 Tempo de execução (versão básica): 2457 microsegundos
-<br> </br>
+
 
 ### **Versão Otimizada:**
 
