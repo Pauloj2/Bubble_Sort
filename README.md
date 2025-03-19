@@ -69,7 +69,7 @@ Esta função foi desenvolvido em linguagem de programação C.
 
 **Caso de teste:**
 
-<img src="https://github.com/user-attachments/assets/75ec588d-49b2-4f3f-b78a-bda800acca73" alt="Algoritmo_Bubble_sort" align="lift">
+<img src="https://github.com/user-attachments/assets/7ab2cb13-8f4d-4feb-b52f-50fcd1b1958f" alt="Algoritmo_Bubble_sort" align="lift">
 
 <img src="https://github.com/user-attachments/assets/da63d02a-ce81-4a8f-ae5f-b45414382ead" alt="run" align="right" width="430" height="250">
 
