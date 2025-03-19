@@ -12,6 +12,8 @@ O **Bubble Sort** é um algoritmo de ordenação que pode ser aplicado em Arrays
 Se o objetivo é ordenar os valores em forma crescente, então, a posição atual é comparada com a próxima posição e, se a posição atual for menor que a posição posterior, é realizada a troca. Caso contrário, a troca não é feita e passa-se para o próximo par de comparação.
 Um array ou lista pode estar já ordenado no momento em que se solicita a ordenação, dessa forma, esta situação tem de ser considerada na implementação do algoritmo. 
 
+fonte do gif: https://pt.wikipedia.org/wiki/Bubble_sort
+
 ## **⚙️ Como Funciona**
 
 <a href="https://pin.it/4QhqJWy3w">
@@ -50,6 +52,8 @@ Um array ou lista pode estar já ordenado no momento em que se solicita a ordena
 5. **Resultado final**:
    O vetor ordenado é `[1, 2, 3, 5, 8]`.
 
+Fonte da imagem: https://pin.it/6331dr4Yn
+
 ## **🛠️ Tecnologias Utilizadas**
 
 - **Linguagem:** C e C++ 💻
@@ -69,16 +73,16 @@ Esta função foi desenvolvido em linguagem de programação C.
 
 **Caso de teste:**
 
-<img src="https://github.com/user-attachments/assets/7ab2cb13-8f4d-4feb-b52f-50fcd1b1958f" alt="Algoritmo_Bubble_sort">
+<img src="https://github.com/user-attachments/assets/9ee4e15b-21b9-4848-8514-b07b8f36e58d" alt="Algoritmo_Bubble_sort">
 
-<br> <\br>
+<br> </br>
 **Resultado do caso de teste:**
 
 <img src="https://github.com/user-attachments/assets/da63d02a-ce81-4a8f-ae5f-b45414382ead" alt="Saida">
 
 <br></br>
 
-### Versão Otimizada do Bubble Sort: ###
+### 🚀 Versão Otimizada do Bubble Sort: ###
 <img src="https://github.com/user-attachments/assets/ca3528b4-d8fb-4099-ae94-5a65129412e6" alt="Algoritmo_Bubble_sort" align="right"  width="480" height="300">
 
 O Bubble Sort funciona repetidamente passando pela lista, comparando pares de elementos adjacentes e trocando-os se estiverem na ordem errada. Esse processo é repetido até que a lista esteja completamente ordenada. A cada passada, o maior elemento "borbulha" para o final do vetor, daí o nome "Bubble Sort".
@@ -87,44 +91,17 @@ Esse algoritmo tem uma complexidade de tempo O(n²), o que significa que, para v
 
 Esta função foi desenvolvido em linguagem de programação C.
 
-<br> <\br>
+<br> </br>
 **Caso de teste:**
 
 <img src="https://github.com/user-attachments/assets/f5d0228d-97ed-4b42-a584-63034f6f1119" alt="Algoritmo_Bubble_sort">
-<br> <\br>
+<br> </br>
     
 **Resultado do caso de teste:**
 
 <img src="https://github.com/user-attachments/assets/74227058-d595-457e-a25b-e8eaa9d50c37" alt="run">
 
 <br></br>
-
-
-## **🚀 Instruções para Execução**
-
-1. Clone o repositório para o seu computador:
-
-    ```bash
-    git clone https://github.com/seu-usuario/bubble-sort.git
-    ```
-
-2. Entre na pasta do repositório:
-
-    ```bash
-    cd bubble-sort
-    ```
-
-3. Compile o código:
-
-    ```bash
-    g++ -o bubble_sort main.cpp
-    ```
-
-4. Execute o programa:
-
-    ```bash
-    ./bubble_sort
-    ```
 
 ## **🔍 Como Funciona**
 
@@ -141,17 +118,16 @@ Esta função foi desenvolvido em linguagem de programação C.
 
 ### **Versão Básica:**
 
-
 40 1 23 20 67 44 9 18 0 99 
 
 Vetor depois de ordenar (versão básica):
 0 1 9 18 20 23 40 44 67 99
 
 Tempo de execução (versão básica): 2457 microsegundos
-Versão Otimizada:
-java
-Copiar
-Editar
+<br> </br>
+
+### **Versão Otimizada:**
+
 Vetor antes de ordenar (versão otimizada):
 40 1 23 20 67 44 9 18 0 99 
 
@@ -159,6 +135,8 @@ Vetor depois de ordenar (versão otimizada):
 0 1 9 18 20 23 40 44 67 99
 
 Tempo de execução (versão otimizada): 1865 microsegundos
+
+<br> </br>
 ## **🧪 Testes Realizados**
 
 - Testei ambos os algoritmos (versão básica e otimizada) no mesmo vetor, com 10 elementos, para comparar o tempo de execução.
@@ -175,4 +153,4 @@ Tempo de execução (versão otimizada): 1865 microsegundos
 
 ## **📜 Licença**
 
-Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Distribuído sob a licença MIT.
